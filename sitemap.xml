@@ -1,0 +1,69 @@
+<search>
+    
+     <entry>
+        <title>Go1</title>
+        <url>https://zzonee.github.io/post/golang/go1/</url>
+        <categories>
+          <category>go</category>
+        </categories>
+        <tags>
+          <tag>xxx</tag><tag>xxx</tag>
+        </tags>
+        <content type="html"> </content>
+    </entry>
+    
+     <entry>
+        <title>post下的另一篇文章</title>
+        <url>https://zzonee.github.io/post/test-copy/</url>
+        <categories>
+          <category>test</category>
+        </categories>
+        <tags>
+          <tag>Rust</tag><tag>Programing</tag>
+        </tags>
+        <content type="html"> Title = &amp;ldquo;zone的个人笔记&amp;rdquo; LanguageCode = &amp;ldquo;zh-CN&amp;rdquo; BaseUrl = &amp;quot;&amp;quot; Theme = &amp;ldquo;next&amp;rdquo; MetaDataFormat = &amp;ldquo;yaml&amp;rdquo; CanonifyUrls = true BuildDrafts = false PaginatePath = &amp;ldquo;p&amp;rdquo; Paginate = 8 DisablePathToLower = false HasCJKLanguage = true PreserveTaxonomyNames = false UglyUrls = false PygmentsStyle = &amp;ldquo;monokai&amp;rdquo; pygmentsCodefences = true pygmentsCodefencesGuessSyntax = true DefaultContentLanguage = &amp;ldquo;zh&amp;rdquo;
+[Params] Introduce = &amp;ldquo;Programmer&amp;rdquo; Description = &amp;ldquo;zone | 博客 | 软件 | 架构 | Golang&amp;rdquo; Keywords = &amp;ldquo;博客,程序员,个人,思考,读书,笔记,技术,分享,Golang&amp;rdquo; Subtitle = &amp;ldquo;biu biu biu&amp;rdquo; #Imglogo = &amp;ldquo;/img/logo.png&amp;rdquo; AuthorImg = &amp;ldquo;/img/author.jpg&amp;rdquo; DateFormat = &amp;ldquo;2006-01-02 15:04:05&amp;rdquo; YearFormat = &amp;ldquo;2006年&amp;rdquo; MonthFormat = &amp;ldquo;01-02&amp;rdquo; #BaiduStatsId = &amp;quot;&amp;quot; #QQStatsId = &amp;quot;&amp;quot; #RevolverMapId = &amp;quot;&amp;quot; Fancybox = true
+[Author] Name = &amp;ldquo;zone&amp;rdquo;
+[Params.Share] #DuoShuo = &amp;quot;&amp;quot; Baidu = true
+[Params.utterances] # https://utteranc.es/ owner = &amp;quot;&amp;quot; # Your GitHub ID repo = &amp;quot;&amp;quot; # The repo to store comments
+[[Menu.Main]] Name = &amp;ldquo;首页&amp;rdquo;
+Pre = &amp;ldquo;home&amp;rdquo; URL = &amp;ldquo;/&amp;rdquo; # 渲染 ./content/post/ 下的文件 Weight = 1 [[Menu.Main]] Name = &amp;ldquo;go&amp;rdquo; Pre = &amp;ldquo;book&amp;rdquo; URL = &amp;ldquo;/categories/go/&amp;rdquo; Weight = 2 [[Menu.Main]] Name = &amp;ldquo;k8s&amp;rdquo; Pre = &amp;ldquo;archive&amp;rdquo; URL = &amp;ldquo;/categories/k8s/&amp;rdquo; Weight = 3
+[[Menu.Main]] Name = &amp;ldquo;归档&amp;rdquo; Pre = &amp;ldquo;archive&amp;rdquo; URL = &amp;ldquo;/categories/archive/&amp;rdquo; Weight = 4 [[Menu.Main]] Name = &amp;ldquo;关于&amp;rdquo; Pre = &amp;ldquo;user&amp;rdquo; URL = &amp;ldquo;/about&amp;rdquo; Weight = 5
+[[Params.Socials]] Name = &amp;ldquo;GitHub&amp;rdquo; Icon = &amp;ldquo;github&amp;rdquo; URL = &amp;ldquo;https://github.com/zzonee&amp;quot;
+</content>
+    </entry>
+    
+     <entry>
+        <title>k8s1</title>
+        <url>https://zzonee.github.io/post/k8s/k8s1/</url>
+        <categories>
+          <category>k8s</category>
+        </categories>
+        <tags>
+          <tag>Rust</tag><tag>Programing</tag>
+        </tags>
+        <content type="html"> k8s 环境安装 microk8s </content>
+    </entry>
+    
+     <entry>
+        <title>post下的一篇文章</title>
+        <url>https://zzonee.github.io/post/test/</url>
+        <categories>
+          <category>test</category>
+        </categories>
+        <tags>
+          <tag>Rust</tag><tag>Programing</tag>
+        </tags>
+        <content type="html"> Title = &amp;ldquo;zone的个人笔记&amp;rdquo; LanguageCode = &amp;ldquo;zh-CN&amp;rdquo; BaseUrl = &amp;ldquo;http://lanlingzi.cn/&amp;quot; Theme = &amp;ldquo;next&amp;rdquo; MetaDataFormat = &amp;ldquo;yaml&amp;rdquo; CanonifyUrls = true BuildDrafts = false PaginatePath = &amp;ldquo;p&amp;rdquo; Paginate = 8 DisablePathToLower = false HasCJKLanguage = true PreserveTaxonomyNames = false UglyUrls = false PygmentsStyle = &amp;ldquo;monokai&amp;rdquo; pygmentsCodefences = true pygmentsCodefencesGuessSyntax = true DefaultContentLanguage = &amp;ldquo;zh&amp;rdquo;
+[Params] Introduce = &amp;ldquo;Programmer&amp;rdquo; Description = &amp;ldquo;zone | 博客 | 软件 | 架构 | Golang&amp;rdquo; Keywords = &amp;ldquo;博客,程序员,个人,思考,读书,笔记,技术,分享,Golang&amp;rdquo; Subtitle = &amp;ldquo;biu biu biu&amp;rdquo; #Imglogo = &amp;ldquo;/img/logo.png&amp;rdquo; AuthorImg = &amp;ldquo;/img/author.jpg&amp;rdquo; DateFormat = &amp;ldquo;2006-01-02 15:04:05&amp;rdquo; YearFormat = &amp;ldquo;2006年&amp;rdquo; MonthFormat = &amp;ldquo;01-02&amp;rdquo; #BaiduStatsId = &amp;ldquo;0b07433b4ab8d587dae7d34e71973839&amp;rdquo; #QQStatsId = &amp;ldquo;58416275&amp;rdquo; #RevolverMapId = &amp;ldquo;5b4f2ucxar6&amp;rdquo; Fancybox = true
+[Author] Name = &amp;ldquo;zone&amp;rdquo;
+[Params.Share] #DuoShuo = &amp;ldquo;lanlingzi&amp;rdquo; Baidu = true
+[Params.utterances] # https://utteranc.es/ owner = &amp;quot;&amp;rdquo; # Your GitHub ID repo = &amp;quot;&amp;quot; # The repo to store comments
+[[Menu.Main]] Name = &amp;ldquo;首页&amp;rdquo;
+Pre = &amp;ldquo;home&amp;rdquo; URL = &amp;ldquo;/&amp;rdquo; # 渲染 ./content/post/ 下的文件 Weight = 1 [[Menu.Main]] Name = &amp;ldquo;go&amp;rdquo; Pre = &amp;ldquo;book&amp;rdquo; URL = &amp;ldquo;/categories/go/&amp;rdquo; Weight = 2 [[Menu.Main]] Name = &amp;ldquo;k8s&amp;rdquo; Pre = &amp;ldquo;archive&amp;rdquo; URL = &amp;ldquo;/categories/k8s/&amp;rdquo; Weight = 3
+[[Menu.Main]] Name = &amp;ldquo;归档&amp;rdquo; Pre = &amp;ldquo;archive&amp;rdquo; URL = &amp;ldquo;/categories/archive/&amp;rdquo; Weight = 4 [[Menu.Main]] Name = &amp;ldquo;关于&amp;rdquo; Pre = &amp;ldquo;user&amp;rdquo; URL = &amp;ldquo;/about&amp;rdquo; Weight = 5
+[[Params.Socials]] Name = &amp;ldquo;GitHub&amp;rdquo; Icon = &amp;ldquo;github&amp;rdquo; URL = &amp;ldquo;https://github.com/xtfly/&amp;quot;
+</content>
+    </entry>
+    
+</search>

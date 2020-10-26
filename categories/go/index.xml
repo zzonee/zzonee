@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on zone&#39;s blog</title>
+    <link>https://zzonee.github.io/categories/go/</link>
+    <description>Recent content in go on zone&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 25 Oct 2020 23:13:17 +0800</lastBuildDate><atom:link href="https://zzonee.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go1</title>
+      <link>https://zzonee.github.io/post/golang/go1/</link>
+      <pubDate>Sun, 25 Oct 2020 23:13:17 +0800</pubDate>
+      
+      <guid>https://zzonee.github.io/post/golang/go1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
